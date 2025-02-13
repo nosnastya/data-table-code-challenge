@@ -1,3 +1,5 @@
+
+
 ## Use-case
 
 We have a page in pur system called *'Flight Inspirations'* where user can see suggestion for his upcoming travel.
@@ -6,6 +8,7 @@ You need to ceate an admin dashboard to view and edit the 'Flight Inspirations'.
 ## What is already in the codebase:
 Yu have Tanstack table. Each table cell is editable and after updating any cell (or multiple cells) you will see the editted cells in highlighted color. 
 You are able to save the cells and the data in the table is persisted. This functionality should remain working.
+<img width="1576" alt="Screenshot 2025-02-13 at 2 57 33 PM" src="https://github.com/user-attachments/assets/e83cf53d-65e2-443b-a8af-1102c82bc720" />
 
 ## Assignment:
 I. Register on Amadeus Developer and get access to their free open-source APIs we will use in this challenge:
