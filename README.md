@@ -1,6 +1,6 @@
 ## Use-case
 
-We have a page in pur system called 'Flight Inspirations' where user can see suggestion for his upcoming travel.
+We have a page in pur system called *'Flight Inspirations'* where user can see suggestion for his upcoming travel.
 You need to ceate an admin dashboard to view and edit the 'Flight Inspirations'.
 
 ## What is already in the codebase:
@@ -23,6 +23,8 @@ V. After data is displayed make sure its styled nicely.
 VI. Add drag and drop functionality to the columns of the table. (You should be able to switch position of the columns: eg. 5 -> 1, 1 -> 2, etc).
 
 VII. Add client side pagination on scroll.
+
+VII. Optimize the state management of the app.
 
 
 ## Conditions
